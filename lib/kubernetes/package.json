@@ -22,8 +22,8 @@
     "@opstrace/utils": "^0.0.0",
     "fast-deep-equal": "^3.1.3",
     "glob": "^7.1.6",
-    "js-yaml": "^3.13.1",
-    "json-schema-to-typescript": "^8.2.0",
+    "js-yaml": "^3.14.2",
+    "json-schema-to-typescript": "^9.0.0",
     "redux-saga": "^1.1.3",
     "request": "^2.88.2"
   },
