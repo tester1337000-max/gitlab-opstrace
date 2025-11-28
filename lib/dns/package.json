@@ -16,7 +16,7 @@
     "lint": "eslint --ext .ts src/"
   },
   "dependencies": {
-    "@google-cloud/dns": "^2.0.2",
+    "@google-cloud/dns": "^4.0.0",
     "@opstrace/aws": "^0.0.0",
     "@opstrace/gcp": "^0.0.0",
     "@opstrace/utils": "^0.0.0",
