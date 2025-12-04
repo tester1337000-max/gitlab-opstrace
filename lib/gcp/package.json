@@ -16,15 +16,15 @@
     "lint": "eslint --ext .ts src"
   },
   "dependencies": {
-    "@google-cloud/common": "^3.7.0",
-    "@google-cloud/compute": "^2.6.0",
-    "@google-cloud/container": "^2.4.2",
+    "@google-cloud/common": "^5.0.0",
+    "@google-cloud/compute": "^3.0.0",
+    "@google-cloud/container": "^5.0.0",
     "@google-cloud/storage": "^5.12.0",
     "@opstrace/kubernetes": "^0.0.0",
     "@opstrace/utils": "^0.0.0",
     "fp-ts": "^2.5.3",
-    "google-auth-library": "^6.1.6",
-    "googleapis": "83.0.0",
+    "google-auth-library": "^9.0.0",
+    "googleapis": "124.0.0",
     "io-ts": "^2.2.9"
   }
 }
