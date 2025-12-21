@@ -1,4 +1,4 @@
-FROM fluent/fluentd:v1.12.4-debian-1.0
+FROM fluent/fluentd:v1.16.11-debian-1.0
 USER root
 
 # What follows is a combination of instructions for how to customize the
